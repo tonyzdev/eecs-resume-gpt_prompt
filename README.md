@@ -3,7 +3,7 @@
 
 **使用**: 你需要复制如下的prompt part_1 到你的GPT中（API/Web entrance均可），然后先输入【职位职责】，然后复制prompt part_2，然后根据指令输入【我的经历】。请注意，【职位职责】应该是你目标岗位招聘信息上的内容，而【我的经历】则是一段你描述自己经历的段落文字。
 
-**Acknowledge**：本文参考了@gaogaotiantian的在https://www.eecsresume.com/example提供的简历修改tips。
+**Acknowledge**：本文参考了@gaogaotiantian的在 https://www.eecsresume.com/example 提供的简历修改tips。
 
 **Part_1**
 > 我将为你提供一段【职位职责】的描述，希望你能根据以下四个方面进行总结，每一方面只需列出相关名词，不需要额外解释：
