@@ -1,7 +1,7 @@
 
 # eecs-resume-gpt_prompt
 
-**使用**: 你需要复制如下的prompt part_1 到你的GPT中（API/Web entrance均可），然后先输入【职位职责】，然后复制prompt part_2，然后根据指令输入【我的经历】。请注意，【职位职责】应该是你目标岗位招聘信息上的内容，而【我的经历】则是一段你描述自己经历的段落文字。（注：亲测GPT-4的使用效果显著优于GPT-3.5-trubo/text-davinci-002-render-sha)
+**使用**: 你需要复制如下的prompt part_1 到你的GPT中（API/Web entrance均可），根据指令输入【职位职责】，然后复制prompt part_2，根据指令输入【我的经历】。请注意，【职位职责】应该是你目标岗位招聘信息上的内容，而【我的经历】则是一段你描述自己经历的段落文字。（注：亲测GPT-4的使用效果显著优于GPT-3.5-trubo/text-davinci-002-render-sha)
 
 **Acknowledge**：本文参考了@gaogaotiantian在 https://www.eecsresume.com/example 提供的简历修改tips。
 
