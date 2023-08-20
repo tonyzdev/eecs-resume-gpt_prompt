@@ -16,7 +16,7 @@
 > 3. **岗位要求的背景知识**：请列出在学校中学习的相关专业或科目，例如：特定学科如经济学、金融、计算机科学、生物、物理、化学等，或科目如计算机编程、宏观经济学、微观经济学、高等数学、线性代数、运筹学、统计分析等理论性的知识。
 > 4. **岗位需求的职责特性**：请列出符合该【岗位职责】的一些个人性格特征，例如：积极主动、擅长与人交流、富有好奇精神、学习能力强、承压能力强等特性。
 >
-> 请确保上述四个方面的内容彼此独立，互不重复。如果你已明白，请回复：我已明白，请你提供【岗位职责】。”
+> 请确保上述四个方面的内容彼此独立，互不重复。如果你已明白，请回复：我已明白，请你提供【岗位职责】。
 
 **Part_2**
 > 现在，请根据你刚才总结的【要求掌握的工具或技能】、【建议有的经历或者经验】、【岗位要求的背景知识】、【岗位需求的职责特性】，按照以下指令改写我将提供的【我的经历】。
@@ -33,7 +33,7 @@
   （2）与两名工程师使用React.js重构了用户界面，使客户购买产品的时间平均减少了48%。
   （3）完善了招聘网站的购买流程，使之易于使用，从而将用户满意率从73%提高到84%。
 >
->如果你已经明白了我的要求，请回复：我已经明白，请您提供【我的经历】。”
+>如果你已经明白了我的要求，请回复：我已经明白，请您提供【我的经历】。
 
 **Part_1**
 > I will provide you with a one-paragraph description of the [Position Responsibilities], which I would like you to summarize based on the following four areas, each of which should be listed with only the relevant terms and no additional explanation:
@@ -59,4 +59,4 @@ Instructions:
   (2) Worked with two engineers to refactor the user interface using React.js, which reduced the time it took customers to purchase products by an average of 48%.
   (3) Improved the job board's buying process to make it easy to use, resulting in an increase in user satisfaction from 73% to 84%.
 >
->If you have understood my request, please reply: i have understood, please provide [my experience]."
+>If you have understood my request, please reply: i have understood, please provide [my experience].
