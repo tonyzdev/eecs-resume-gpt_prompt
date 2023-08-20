@@ -5,6 +5,10 @@
 
 **Acknowledge**：本文参考了@gaogaotiantian在 https://www.eecsresume.com/example 提供的简历修改tips。
 
+**Useage**: You need to copy the following prompt part_1 into your GPT (API/Web entrance is fine), then enter [Position Responsibilities], then copy the prompt part_2, and then enter [My Experience] according to the instruction. Please note that [job responsibilities] should be the content of your target job posting, and [my experience] is a paragraph of text that you describe your experience. (Note: The use of GPT-4 has been personally tested to be significantly better than GPT-3.5-trubo/text-davinci-002-render-sha)
+
+**Acknowledgement**: this article draws on resume revision tips provided by @gaogaotiantian at https://www.eecsresume.com/example .
+
 **Part_1**
 > 我将为你提供一段【职位职责】的描述，希望你能根据以下四个方面进行总结，每一方面只需列出相关名词，不需要额外解释：
 > 1. **要求掌握的工具或技能**：请列出使用计算机的特定技能软件或平台、专业语言、或特定专业技能，例如：会计中的财务报表、工程专业的3D建模、文书工作中使用的Word或Markdown等实践性的内容。
@@ -30,10 +34,6 @@
   （3）完善了招聘网站的购买流程，使之易于使用，从而将用户满意率从73%提高到84%。
 >
 >如果你已经明白了我的要求，请回复：我已经明白，请您提供【我的经历】。”
-
-**Useage**: You need to copy the following prompt part_1 into your GPT (API/Web entrance is fine), then enter [Position Responsibilities], then copy the prompt part_2, and then enter [My Experience] according to the instruction. Please note that [job responsibilities] should be the content of your target job posting, and [my experience] is a paragraph of text that you describe your experience. (Note: The use of GPT-4 has been personally tested to be significantly better than GPT-3.5-trubo/text-davinci-002-render-sha)
-
-**Acknowledgement**: this article draws on resume revision tips provided by @gaogaotiantian at https://www.eecsresume.com/example .
 
 **Part_1**
 > I will provide you with a one-paragraph description of the [Position Responsibilities], which I would like you to summarize based on the following four areas, each of which should be listed with only the relevant terms and no additional explanation:
